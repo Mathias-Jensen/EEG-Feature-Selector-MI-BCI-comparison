@@ -1,0 +1,7 @@
+Performance Metrics for Channel 11:
+Accuracy: 92.0000
+Precision: 95.1477
+Specificity: 94.2500
+Sensitivity: 90.2000
+F1 Score: 92.6078
+--------------------------------------------------

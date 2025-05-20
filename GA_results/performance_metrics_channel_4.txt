@@ -1,0 +1,7 @@
+Performance Metrics for Channel 4:
+Accuracy: 93.4444
+Precision: 95.0920
+Specificity: 94.0000
+Sensitivity: 93.0000
+F1 Score: 94.0344
+--------------------------------------------------

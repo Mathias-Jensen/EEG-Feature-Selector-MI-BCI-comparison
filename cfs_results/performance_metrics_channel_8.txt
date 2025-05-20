@@ -1,0 +1,7 @@
+Performance Metrics for Channel 8:
+Accuracy: 87.5556
+Precision: 91.4530
+Specificity: 90.0000
+Sensitivity: 85.6000
+F1 Score: 88.4298
+--------------------------------------------------

@@ -1,0 +1,7 @@
+Performance Metrics for Channel 18:
+Accuracy: 91.2222
+Precision: 93.4021
+Specificity: 92.0000
+Sensitivity: 90.6000
+F1 Score: 91.9797
+--------------------------------------------------

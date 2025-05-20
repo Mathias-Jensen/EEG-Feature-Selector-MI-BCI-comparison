@@ -1,0 +1,7 @@
+Performance Metrics for Channel 10:
+Accuracy: 95.3333
+Precision: 96.1694
+Specificity: 95.2500
+Sensitivity: 95.4000
+F1 Score: 95.7831
+--------------------------------------------------

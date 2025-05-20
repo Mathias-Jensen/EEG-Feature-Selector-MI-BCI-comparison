@@ -1,0 +1,7 @@
+Performance Metrics for Channel 17:
+Accuracy: 93.6667
+Precision: 93.8614
+Specificity: 92.2500
+Sensitivity: 94.8000
+F1 Score: 94.3284
+--------------------------------------------------

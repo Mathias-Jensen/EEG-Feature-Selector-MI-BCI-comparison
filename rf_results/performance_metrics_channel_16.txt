@@ -1,0 +1,7 @@
+Performance Metrics for Channel 16:
+Accuracy: 93.6667
+Precision: 92.8433
+Specificity: 90.7500
+Sensitivity: 96.0000
+F1 Score: 94.3953
+--------------------------------------------------

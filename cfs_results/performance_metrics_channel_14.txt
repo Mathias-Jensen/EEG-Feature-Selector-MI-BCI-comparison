@@ -1,0 +1,7 @@
+Performance Metrics for Channel 14:
+Accuracy: 92.2222
+Precision: 94.2387
+Specificity: 93.0000
+Sensitivity: 91.6000
+F1 Score: 92.9006
+--------------------------------------------------

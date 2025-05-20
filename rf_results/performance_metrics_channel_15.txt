@@ -1,0 +1,7 @@
+Performance Metrics for Channel 15:
+Accuracy: 91.7778
+Precision: 90.9615
+Specificity: 88.2500
+Sensitivity: 94.6000
+F1 Score: 92.7451
+--------------------------------------------------

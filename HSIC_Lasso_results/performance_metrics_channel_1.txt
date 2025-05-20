@@ -1,0 +1,7 @@
+Performance Metrics for Channel 1:
+Accuracy: 91.2222
+Precision: 95.6616
+Specificity: 95.0000
+Sensitivity: 88.2000
+F1 Score: 91.7794
+--------------------------------------------------

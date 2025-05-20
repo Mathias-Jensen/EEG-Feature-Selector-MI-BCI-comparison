@@ -1,0 +1,7 @@
+Performance Metrics for Channel 3:
+Accuracy: 92.6667
+Precision: 93.0556
+Specificity: 91.2500
+Sensitivity: 93.8000
+F1 Score: 93.4263
+--------------------------------------------------

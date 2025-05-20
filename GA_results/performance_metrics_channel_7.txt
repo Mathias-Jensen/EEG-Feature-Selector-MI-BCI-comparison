@@ -1,0 +1,7 @@
+Performance Metrics for Channel 7:
+Accuracy: 91.3333
+Precision: 93.2377
+Specificity: 91.7500
+Sensitivity: 91.0000
+F1 Score: 92.1053
+--------------------------------------------------

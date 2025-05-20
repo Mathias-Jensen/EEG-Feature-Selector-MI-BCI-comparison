@@ -1,0 +1,7 @@
+Performance Metrics for Channel 6:
+Accuracy: 91.6667
+Precision: 94.3633
+Specificity: 93.2500
+Sensitivity: 90.4000
+F1 Score: 92.3391
+--------------------------------------------------

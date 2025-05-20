@@ -1,0 +1,7 @@
+Performance Metrics for Channel 2:
+Accuracy: 89.5556
+Precision: 92.4686
+Specificity: 91.0000
+Sensitivity: 88.4000
+F1 Score: 90.3885
+--------------------------------------------------

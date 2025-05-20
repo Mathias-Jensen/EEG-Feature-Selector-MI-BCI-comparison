@@ -1,0 +1,7 @@
+Performance Metrics for Channel 20:
+Accuracy: 97.2222
+Precision: 99.3763
+Specificity: 99.2500
+Sensitivity: 95.6000
+F1 Score: 97.4516
+--------------------------------------------------

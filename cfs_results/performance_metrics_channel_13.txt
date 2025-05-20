@@ -1,0 +1,7 @@
+Performance Metrics for Channel 13:
+Accuracy: 88.8889
+Precision: 91.1523
+Specificity: 89.2500
+Sensitivity: 88.6000
+F1 Score: 89.8580
+--------------------------------------------------

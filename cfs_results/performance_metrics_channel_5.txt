@@ -1,0 +1,7 @@
+Performance Metrics for Channel 5:
+Accuracy: 86.8889
+Precision: 89.1393
+Specificity: 86.7500
+Sensitivity: 87.0000
+F1 Score: 88.0567
+--------------------------------------------------

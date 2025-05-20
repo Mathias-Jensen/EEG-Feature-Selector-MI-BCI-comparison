@@ -1,0 +1,7 @@
+Performance Metrics for Channel 19:
+Accuracy: 90.0000
+Precision: 92.1811
+Specificity: 90.5000
+Sensitivity: 89.6000
+F1 Score: 90.8722
+--------------------------------------------------

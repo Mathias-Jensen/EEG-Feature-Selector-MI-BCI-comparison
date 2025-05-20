@@ -1,0 +1,7 @@
+Performance Metrics for Channel 12:
+Accuracy: 90.0000
+Precision: 93.0672
+Specificity: 91.7500
+Sensitivity: 88.6000
+F1 Score: 90.7787
+--------------------------------------------------

@@ -1,0 +1,7 @@
+Performance Metrics for Channel 9:
+Accuracy: 89.2222
+Precision: 91.8919
+Specificity: 90.2500
+Sensitivity: 88.4000
+F1 Score: 90.1121
+--------------------------------------------------

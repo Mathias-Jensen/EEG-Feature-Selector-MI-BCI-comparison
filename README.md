@@ -1,6 +1,5 @@
 # EEG-Feature-Selector-MI-BCI-comparison
 EEG Feature Selector for Motor Imagery BCI Comparison
-# EEG Feature Selection for Motor Imagery BCI
 
 This repository presents a comparative evaluation of four feature selection techniques for EEG-based Brain–Computer Interface (BCI) classification, using motor imagery (MI) data of right hand (RHD) and right foot (RFT) movements.
 

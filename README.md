@@ -14,7 +14,7 @@ The goal of this project is to identify the most effective feature selection str
 - 🔗 **Correlation-based Feature Selection (CFS)** — filter based on class correlation vs. redundancy
 - 🧪 **HSIC Lasso** — kernel-based filter using Hilbert-Schmidt Independence Criterion
 
-## 🧪 Dataset
+## 📂 Dataset
 
 The dataset used in this project consists of EEG recordings from motor imagery (MI) tasks — specifically imagined right-hand and foot movements. It includes multi-channel EEG signals sampled at 200 Hz and has been preprocessed and segmented for feature extraction and classification.
 

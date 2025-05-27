@@ -16,10 +16,18 @@ The goal of this project is to identify the most effective feature selection str
 
 ## 🧪 Dataset
 
+The dataset used in this project consists of EEG recordings from motor imagery (MI) tasks — specifically imagined right-hand and foot movements. It includes multi-channel EEG signals sampled at 200 Hz and has been preprocessed and segmented for feature extraction and classification.
+
 - 118-channel EEG recordings
 - 500,000 samples of imagined **right hand (RHD)** movement
 - 400,000 samples of imagined **right foot (RFT)** movement
 - Sampling rate: 200 Hz
+
+You can download the dataset from the link below:
+
+👉 [Download EEG Dataset](https://drive.google.com/file/d/1EVRUUhwPm5-1mrG9DwZycJ91nvWOKYpw/view?usp=sharing)
+
+> **Note:** After downloading, unzip the dataset into the root project directory or update the data paths in your scripts accordingly.
 
 ## ⚙️ Pipeline
 
@@ -40,7 +48,6 @@ The goal of this project is to identify the most effective feature selection str
 
 Data are in corresponding folders.
 
-
 ## 🧪 Requirements
 
 - Python 3.8+
@@ -50,13 +57,3 @@ Install with:
 
 ```bash
 pip install -r requirements.txt
-
-## 📂 Dataset
-
-The dataset used in this project consists of EEG recordings from motor imagery (MI) tasks — specifically imagined right-hand and foot movements. It includes multi-channel EEG signals sampled at 200 Hz and has been preprocessed and segmented for feature extraction and classification.
-
-You can download the dataset from the link below:
-
-👉 [Download EEG Dataset](https://drive.google.com/file/d/1EVRUUhwPm5-1mrG9DwZycJ91nvWOKYpw/view?usp=sharing)
-
-> **Note:** After downloading, unzip the dataset into the root project directory or update the data paths in your scripts accordingly.
